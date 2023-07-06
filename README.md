@@ -1,6 +1,7 @@
 # DellserverGPUfanissue
 Read my story to fix your issue.
-So sorry for the wizard fun but I hate dry write ups and you can just copy paste and ignore my rambling. 
+
+Sorry for the wizard fun but I hate dry write ups and you can just copy paste and ignore my rambling. 
 
 ## Chapter 1, The problem
 ---
