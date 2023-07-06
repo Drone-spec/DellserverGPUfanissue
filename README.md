@@ -68,6 +68,8 @@ yay ipmitool  < yay wizards
 
 apt-get install ipmitool < Normal Linux users
 ```
+if you want to self compile
+https://github.com/ipmitool/ipmitool
 
 For all my powershell surfers here is the windows Dell support pack 
 https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=w9nmr
